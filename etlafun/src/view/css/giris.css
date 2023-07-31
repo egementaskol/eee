@@ -1,0 +1,61 @@
+main{
+    width: 343px;
+    height: 300px;
+    background-color: skyblue;
+    position: relative;
+    margin-top: 13%;
+    margin-bottom: 0%;
+    position: relative;
+    margin-left: 38.8541666667%;
+    margin-right: 809px;
+    
+}
+
+input {
+
+width: 250px;
+margin-left: 46px;
+height: 30px;
+margin-top: 10px;
+
+}
+
+label{
+
+    margin-left: 80px;
+    
+
+
+}
+button{
+
+margin-left: 97px;
+margin-top: 25px;
+width: 149px;
+height: 50px;
+border-radius: 50px;
+
+
+}
+p{
+display: block;
+    font-size:16px;
+    color:#000000;
+margin-left: 25px;
+
+}
+#a2{
+
+
+    margin-top: 15px;
+}
+
+
+#a1{
+
+margin-bottom: 10px;
+
+
+}
+
+

@@ -1,0 +1,43 @@
+#fcon{
+    width: 500px;
+    height: 800px;
+    background-color: lightgray;
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+}
+input {
+    padding: 10px;
+    border: 1px solid gray;
+    border-radius: 5px;
+    font-size: 16px;
+    width: 200px;
+    margin-left: 100px;
+    margin-top: -10px;
+  }
+  p {
+    font-size:32px;
+    line-height: 1.5;
+    margin: 10px 0;
+    text-align: justify;
+  }
+  button{
+
+height: 50px;
+width: 100px;
+border-radius: 10px;
+margin-top: 3 0px;
+
+
+  }
+  #b1{
+
+margin-left: 0px;
+  
+  }
+  #b2{
+
+margin-left: 100px;
+
+  }
